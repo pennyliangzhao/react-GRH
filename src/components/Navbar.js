@@ -61,8 +61,6 @@ function Navbar() {
                 Landlords & Agencies
               </Link>
             </li>
-
-
             <li>
               <Link
                 to='/sign-in'
